@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family:Arial, Helvetica, sans-serif;
+	background-color:#CCF;
+	font-size:14px;
+	color:#033
+}
+p.section1{
+	text-decoration:underline;
+}
+
+p.section3{
+	text-decoration:line-through;
+}
+
+p.section2{
+	color:#09F
+}
+
+p.section4{
+	 font-size:24px
+}
+
+p.section5{
+	font-family:"Comic Sans MS", cursive
+}
+
+p.section6{
+	text-align:center
+}
+
+a:link{
+	background-color:#000;
+	color:#C60
+}
+
+a:hover{
+	background-color:#FFF;
+	color:#03F
+}
+
+a:visited{
+	color:#9FF
+}
+
+a:active{
+	color:#6F6
+}
+}
